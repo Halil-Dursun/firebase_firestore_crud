@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "864324508700",
+    "project_id": "fir-islemleri2-crud",
+    "storage_bucket": "fir-islemleri2-crud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864324508700:android:0a9fd39643a22e93ae53d9",
+        "android_client_info": {
+          "package_name": "com.example.firebase_islemleri2_crud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864324508700-r724clrd2muing6o193u0jomt7sr201c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_islemleri2_crud",
+            "certificate_hash": "4e3987c7e65925991f9468425ea7c19c3ea5d453"
+          }
+        },
+        {
+          "client_id": "864324508700-5itljffu5tr6hq330tlgumm48o7fchpd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_FslRqkkIGIvS_xcdero5yVfcGhXyENw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864324508700-5itljffu5tr6hq330tlgumm48o7fchpd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
